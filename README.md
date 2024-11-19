@@ -1,16 +1,16 @@
-## Hi there 👋
+Cryp2o: A Simple and Flexible 2D Physics Extension for SFML
+Cryp2o is a lightweight 2D physics library designed to seamlessly integrate with SFML. It empowers developers with easy-to-use tools for implementing realistic physics simulations, adding life and interactivity to their 2D games and applications.
 
-<!--
-**Crypt2o/Crypt2o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Features
+Gravity and Collision Handling: Simplify the implementation of realistic object interactions.
+Mass-Based Physics: Support for mass-influenced movement and dynamic behaviors.
+Customizable Constraints: Implement speed caps, friction, and more with intuitive methods.
+Expandable Design: Built to allow future additions, including water physics and other advanced features.
+Why Cryp2o?
+Cryp2o prioritizes simplicity and flexibility, making it ideal for developers who want to add robust 2D physics to their projects without the overhead of more complex physics engines. It's tailored to work out of the box with SFML, streamlining the development process.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Getting Started
+Install SFML.
+Add Cryp2o to your project.
+Start using its physics features with minimal setup.
+Check out the documentation and examples to see Cryp2o in action!
